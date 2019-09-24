@@ -3,6 +3,7 @@
 # Get Started with Microsoft Azure IoT Starter Kit - Adafruit Feather Huzzah ESP8266 (Arduino-compatible)
 
 **Note: this article has been archived and it is not longer updated. Instructions may not be totally up to date.**
+Please refer to the [Espressif Azure IoT GitHub](https://github.com/espressif/esp-azure) for the latest instructions.
 ***
 **Looking for something simple?** This tutorial is very complete and contains a lot of detail. If you want
 something quick and simple, try one of these:
